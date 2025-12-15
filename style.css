@@ -1,5 +1,6 @@
 .name{
-font-family: 'Poppins', sans-serif;
+font-family: 'Cinzel',serif;
+letter-spacing:3px;
 text-decoration: none;
 color:rgb(0, 0, 0);
 font-size:28px;
@@ -165,6 +166,7 @@ html{
         padding-right:0px;
     }
 }
+
 
 
 
