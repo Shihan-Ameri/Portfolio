@@ -1,5 +1,5 @@
 .name{
-font-family: 'Cinzel',serif;
+font-family: 'Poppins', sans-serif;
 text-decoration: none;
 color:rgb(0, 0, 0);
 font-size:28px;
@@ -157,14 +157,12 @@ body{
 html{
     scroll-behavior:smooth;
 }
-.navbar-nav{
-    padding-right:100px;
-}
-@media(max-width:700px){
+@media (min-width:768px){
     .navbar-nav{
-        padding-right:0px;
+        padding-right:100px;
     }
 }
+
 
 
 
